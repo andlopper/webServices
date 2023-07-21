@@ -7,7 +7,5 @@
 - Tratamento de exceções
 - Implantação no Railway
 
-Sistema em produção: https://webservices-production-a1e6.up.railway.app
-
-**GET** https://webservices-production-a1e6.up.railway.app/users <br>
-**GET** https://webservices-production-a1e6.up.railway.app/products
+Sistema em produção: https://webservices-production-a1e6.up.railway.app <br>
+Swagger: https://webservices-production-a1e6.up.railway.app/swagger-ui/index.html
