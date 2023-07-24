@@ -8,4 +8,4 @@
 - Implantação no Railway
 
 Sistema em produção: https://webservices-production-a1e6.up.railway.app <br>
-Swagger: https://webservices-production-a1e6.up.railway.app/swagger-ui/index.html
+Swagger (Utilizar Postman): https://webservices-production-a1e6.up.railway.app/swagger-ui/index.html
